@@ -144,7 +144,6 @@
 }
 .div-join{
     color: blue;
-    margin-top: 50px;
 }
 .h1-join{
     font-size: 30px;
@@ -165,4 +164,71 @@
     border: none;
     font-size: 15px;
     font-weight: bold;
+}
+.div-social{
+    display: flex;
+    margin-left: 300px;
+    margin-right: 300px;
+    flex-direction: column;
+}
+.social-flex{
+    display: flex;
+    flex-direction: row;
+}
+.foot-social{
+    background-color: white;
+    border: none;
+}
+.call{
+    font-size: 13px;
+    color: #0096FF;
+}
+.expert-div{
+    margin-left: auto; 
+    margin-right: 0;
+}
+.hr-foot{
+        height: 1px;
+        background-color:#2dbdf2;
+        border: none;
+}
+.footer-flex1{
+    display: flex;
+    flex-direction: row;
+}
+.footer-right-link{
+    color:#8A8A8A;
+    text-decoration: none;
+    font-weight: bolder;
+}
+.li1{
+    list-style: none;
+    line-height: 30px;
+}
+.footer-flex2{
+    display: flex;
+    justify-content: space-between;
+    width: 1000px;
+}
+.footer-right-link2{
+    color:#8A8A8A;
+    text-decoration: none;
+    font-weight: normal;
+    font-size: 14px;
+}
+.foot-left-para{
+    width: 600px;
+}
+.brands{
+    color:#0096FF;
+}
+.nav-last{
+    display: block;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: .75em;
+    color:#0096FF;
+}
+.lastlist{
+    text-align: center;
 }
